@@ -12,7 +12,7 @@ public class Main {
                 +" Узундугу = "+shark.getLength()
                 +" Тамангы = "+shark.getAet());
 
-        System.out.println(parrot.getKg()+"кг"
+        System.out.println(parrot.getKg()+"г"
                 +" Парода = "+parrot.getParoda()
                 +" Тамангы = "+parrot.getAet());
     }
