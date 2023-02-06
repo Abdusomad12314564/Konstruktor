@@ -4,15 +4,15 @@ public class Main {
         Parrot parrot = new Parrot(300, "pipo","Курт кумурскаларды жейт, жем жейт");
         Shark shark=new Shark(1500,6,"Балык жейт");
 
-        System.out.println(lion.getKg()+"кг\n"
+        System.out.println(lion.getKg()+"кг"
         +" Узундугу = "+lion.getLength()
         +" Тамангы = "+lion.getAet());
 
-        System.out.println(shark.getKg()+"кг\n"
+        System.out.println(shark.getKg()+"кг"
                 +" Узундугу = "+shark.getLength()
                 +" Тамангы = "+shark.getAet());
 
-        System.out.println(parrot.getKg()+"кг\n"
+        System.out.println(parrot.getKg()+"кг"
                 +" Парода = "+parrot.getParoda()
                 +" Тамангы = "+parrot.getAet());
     }
